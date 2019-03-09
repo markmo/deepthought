@@ -28,7 +28,8 @@ model has been pre-trained on the SQuAD dataset.
 Example Use Case:
 
 .. image:: static/legal_bot.png
-   :width: 400px
+   :width: 60%
+   :scale: 40%
    :alt: Example Use Case
 
 Answering questions given policy documents in Word and PDF format.
