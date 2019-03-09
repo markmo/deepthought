@@ -14,7 +14,7 @@ The system has the following components:
 5. A Bot Orchestration Layer to handle interactions with the user interface (UI)
 
 .. image:: static/flowchart.svg
-   :width: 400
+   :width: 300px
    :alt: System Flowchart
 
 .. mermaid:: flowchart.mmd
@@ -28,5 +28,7 @@ model has been pre-trained on the SQuAD dataset.
 Example Use Case:
 
 .. image:: static/legal_bot.png
-   :width: 400
+   :width: 400px
    :alt: Example Use Case
+
+Answering questions given policy documents in Word and PDF format.
