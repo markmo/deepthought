@@ -1,0 +1,12 @@
+node_modules
+npm-debug.log
+docs
+sass
+.gitignore
+app.json
+ATTRIBUTIONS.md
+CHANGELOG.md
+CONTRIBUTING.md
+glitch_readme.md
+LICENSE.md
+readme.md
