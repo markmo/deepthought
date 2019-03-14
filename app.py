@@ -121,7 +121,7 @@ def ask():
 
 
 @app.route('/ask4')
-def ask5():
+def ask4():
     global ranker
     query = request.args['query']
     doc_ids, doc_scores = ranker.closest_docs(query, k=4)
